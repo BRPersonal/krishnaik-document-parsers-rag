@@ -52,3 +52,5 @@ If you have pyproject.toml file , run
 $ uv sync
 It will create the virtual environment, install all the packages and create uv.lock file
 You are all set
+
+brew install ffmpeg
